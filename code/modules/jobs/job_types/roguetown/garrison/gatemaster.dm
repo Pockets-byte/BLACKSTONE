@@ -17,7 +17,7 @@
 	min_pq = -4
 
 /datum/outfit/job/roguetown/watchman
-	name = "Gateman"
+	name = "Gatemaster"
 	jobtype = /datum/job/roguetown/watchman
 
 /datum/outfit/job/roguetown/watchman/pre_equip(mob/living/carbon/human/H)
